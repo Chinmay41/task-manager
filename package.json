@@ -2,7 +2,7 @@
   "name": "task-dashboard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://<username>.github.io/<repository-name>",
+  "homepage": "https://github.com/Chinmay41/task-manager.git",
 
   "dependencies": {
     "@reduxjs/toolkit": "^2.4.0",
