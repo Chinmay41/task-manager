@@ -9,7 +9,7 @@ A React.js task management app using Redux for state management. This app allows
    git clone https://github.com/Chinmay41/task-manager.git
 2. Navigate to the project directory:
    ```bash
-   cd task-management-app
+   cd task-dashboard
 
 3. Install dependencies:
    ```bash
